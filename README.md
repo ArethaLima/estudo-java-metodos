@@ -1,2 +1,2 @@
-# estudo-java-basico2
+# estudo-java-metodos
 Repositório - Métodos Java.
